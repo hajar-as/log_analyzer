@@ -1,0 +1,5 @@
+INFO: Le serveur a démarré
+WARNING: Mémoire proche de la limite
+ERROR: Connexion à la base de données échouée
+INFO: Nouvelle connexion utilisateur
+ERROR: Timeout de la requête
